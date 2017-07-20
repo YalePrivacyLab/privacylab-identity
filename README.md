@@ -1,8 +1,9 @@
 # Yale Privacy Lab
-## Identity (graphics, logos, fonts, branding)
 ### https://privacylab.yale.edu
 
-![Privacy Lab Website](https://github.com/seandiggity/privacylab-identity/raw/master/screenshots/images/screenshots/privacylab_website.png)
+Identity (graphics, logos, fonts, branding)
+
+![Privacy Lab Website](https://github.com/seandiggity/privacylab-identity/raw/master/screenshots/screenshot-privacylab_website.png)
 
 ## Licensing
 
