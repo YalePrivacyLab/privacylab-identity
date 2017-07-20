@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="112.93241mm"
+   height="36.723156mm"
+   viewBox="0 0 400.15421 130.12142"
+   id="svg4191"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="privacy_lab_logo.svg">
+  <defs
+     id="defs4193">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4453"
+       id="linearGradient4459"
+       x1="45.873314"
+       y1="-307.87781"
+       x2="162.47327"
+       y2="-307.87781"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.0610126,0,0,5.0610126,292.52755,1823.3671)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4453">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4455" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4457" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4453"
+       id="linearGradient4759"
+       x1="45.873314"
+       y1="-307.87781"
+       x2="162.47327"
+       y2="-307.87781"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7986314,0,0,2.7986314,-905.96671,556.75341)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="221.33123"
+     inkscape:cy="-49.282498"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1102"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4196">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-257.88254,-262.32327)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:56.58446503px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="253.97821"
+       y="349.3912"
+       id="text4739"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="253.97821"
+         y="349.3912"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Bungee;-inkscape-font-specification:'Bungee Semi-Bold';fill:#00356b;fill-opacity:1"
+         id="tspan4743">Privacy <tspan
+   style="fill:#286dc0;fill-opacity:1"
+   id="tspan5367">Lab</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:44.47770691px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4459);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="256.54669"
+       y="279.10031"
+       id="text5364-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="256.54669"
+         y="279.10031"
+         style="font-size:22.60485649px;fill:url(#linearGradient4459);fill-opacity:1"
+         id="tspan4807">0110000101110010011000110110</tspan><tspan
+         sodipodi:role="line"
+         x="256.54669"
+         y="307.35638"
+         style="font-size:22.60485649px;fill:url(#linearGradient4459);fill-opacity:1"
+         id="tspan4811"></tspan><tspan
+         sodipodi:role="line"
+         x="256.54669"
+         y="335.61246"
+         style="font-size:22.60485649px;fill:url(#linearGradient4459);fill-opacity:1"
+         id="tspan4813"></tspan><tspan
+         sodipodi:role="line"
+         x="256.54669"
+         y="363.86853"
+         style="font-size:22.60485649px;fill:url(#linearGradient4459);fill-opacity:1"
+         id="tspan4815"></tspan><tspan
+         sodipodi:role="line"
+         x="256.54669"
+         y="392.1246"
+         style="font-size:22.60485649px;fill:url(#linearGradient4459);fill-opacity:1"
+         id="tspan4817">0001011011100111010101110011</tspan></text>
+  </g>
+</svg>
