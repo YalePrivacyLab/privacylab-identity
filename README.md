@@ -7,7 +7,7 @@ Identity (graphics, logos, fonts, branding)
 
 ## Licensing
 
-* Original artwork by [Sean O'Brien](https://webio.me) is licensed [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  This includes all Privacy Lab logos, shields, icons, and header graphics.
+* Original artwork by [Sean O'Brien](https://profdiggity.com) is licensed [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  This includes all Privacy Lab logos, shields, icons, and header graphics.
 
 * Tempora the Privacy Lab Ghost, Sean O'Brien, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Contains elements from [EmojiTwo](https://emojitwo.github.io/), [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/), and [Wifi by SimpleIcon](http://www.flaticon.com/free-icon/wifi-medium-signal-symbol_34143), [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
 
